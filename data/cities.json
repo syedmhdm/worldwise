@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,66 +23,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Ponneri",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-11-07T18:17:50.182Z",
-      "notes": "",
-      "position": {
-        "lat": "13.261333170798274",
-        "lng": "80.2880859375"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Tirukkalikkunram",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-11-07T18:20:43.479Z",
-      "notes": "new notes",
-      "position": {
-        "lat": "12.511665400971031",
-        "lng": "80.11230468750001"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Virayapuram",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-11-07T18:23:54.607Z",
-      "notes": "",
-      "position": {
-        "lat": "13.239945499286312",
-        "lng": "79.73876953125001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Madurantakam",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2023-11-07T18:25:02.379Z",
-      "notes": "",
-      "position": {
-        "lat": "12.404388944669792",
-        "lng": "79.73876953125001"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Yazman",
-      "country": "Pakistan",
-      "emoji": "🇵🇰",
-      "date": "2023-11-07T18:26:31.277Z",
-      "notes": "",
-      "position": {
-        "lat": "29.55434512574829",
-        "lng": "72.33398437500001"
-      },
-      "id": 98443202
     }
   ]
 }
