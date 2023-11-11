@@ -12,7 +12,7 @@ import City from "./components/City";
 import Form from "./components/Form";
 import { CitiesProvider } from "./contexts/CitiesContext";
 import { AuthProvider } from "./contexts/FakeAuthContext";
-import ProtectedRoute from "./pages/ProtectedRoute";
+// import ProtectedRoute from "./pages/ProtectedRoute";
 
 function App() {
   return (
@@ -27,9 +27,9 @@ function App() {
             <Route
               path='app'
               element={
-                <ProtectedRoute>
-                  <AppLayout />
-                </ProtectedRoute>
+                // <ProtectedRoute>
+                <AppLayout />
+                // </ProtectedRoute>
               }
             >
               <Route index element={<Navigate replace to={"cities"} />} />
