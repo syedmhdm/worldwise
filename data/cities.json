@@ -1,52 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Yerri",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-11-08T19:01:35.751Z",
-      "notes": "",
-      "position": {
-        "lat": "42.74701217318067",
-        "lng": "-1.9335937500000002"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Udaiyarpalaiyam",
+      "cityName": "Chennai",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2023-11-11T19:29:40.005Z",
+      "date": "2023-11-11T23:05:19.734Z",
+      "notes": "Meet up with a friend",
+      "position": {
+        "lat": "13.11659565277252",
+        "lng": "80.25684356689455"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Lake Mackay",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2023-11-11T23:13:40.330Z",
+      "notes": "Fishing",
+      "position": {
+        "lat": "-23.88583769986199",
+        "lng": "131.30859375000003"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Gonesse",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-11T23:17:41.581Z",
       "notes": "",
       "position": {
-        "lat": "11.135287077054238",
-        "lng": "79.34326171875001"
+        "lat": "48.96579381461063",
+        "lng": "2.4609375000000004"
       },
-      "id": 98443199
+      "id": 4
+    },
+    {
+      "cityName": "Chennai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-11-11T23:30:57.461Z",
+      "notes": "Deepavali dahmaka",
+      "position": {
+        "lat": "13.092520154722653",
+        "lng": "80.21770477294923"
+      },
+      "id": 5
     }
   ]
 }
